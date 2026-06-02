@@ -206,8 +206,4 @@ Open `http://127.0.0.1:5000` in your browser.
 | Task | Task 9 — End-to-End Data Science Project |
 | Intern | Kinari Thummar |
 
----
 
-## 📄 License
-
-This project is created for internship purposes under InfyChain Tech Solutions Pvt. Ltd.
