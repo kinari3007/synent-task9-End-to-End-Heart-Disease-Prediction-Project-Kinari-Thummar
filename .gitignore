@@ -7,3 +7,4 @@ venv/
 *.log
 logs/
 catboost_info/
+*.egg-info/
